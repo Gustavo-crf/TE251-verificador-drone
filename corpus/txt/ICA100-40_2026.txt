@@ -1,0 +1,918 @@
+
+<<<PAGINA 1>>>
+ 
+ 
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO 
+ 
+PORTARIA DECEA Nº 2.094/DNOR8, DE 18 DE MARÇO DE 2026 
+ Aprova a edição da Instrução que d ispõe sobre 
+Aeronaves Não Tripuladas e o Acesso ao Espaço 
+Aéreo Brasileiro. 
+O DIRETOR -GERAL DO DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO , de 
+conformidade com o previsto  nos Arts. 1°, 2°, 12 e 14, do Código Brasileiro de Aeronáutica, aprovado 
+pela Lei n° 7.565, de 19 de dezembro de 1986, combinado com o Art. 21, inciso I, da Estrutura 
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto n° 11.237/2022, de 18 de outubro de 
+2022, resolve: 
+Art. 1º  Fica aprovada  a Instrução (ICA 100 -40) que dispõe sobre “Aeronaves Não 
+Tripuladas e o Acesso ao Espaço Aéreo Brasileiro”, na forma dos Anexos I e II. 
+Art. 2º  Ficam revogadas  as Portarias DECEA n º 928/DNOR8, de 15 de maio de 2023 , nº 
+929/DNOR8, de 15 de maio de 2023 e 930/DNOR8, de 15 de maio de 2023, publicadas no Boletim do 
+Comando da Aeronáutica no 103, de 6 de junho de 2023. 
+Art. 3º  Esta Portaria entra em vigor em 1º de julho de 2026. 
+Ten Brig Ar MAURÍCIO AUGUSTO SILVEIRA DE MEDEIROS 
+Diretor-Geral do DECEA 
+(Publicado no BCA nº 058, de 30 de março de 2026) 
+ 
+<<<PAGINA 2>>>
+ 
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO 
+ 
+TRÁFEGO AÉREO 
+ICA 100-40 
+AERONAVES NÃO TRIPULADAS E O ACESSO AO 
+ESPAÇO AÉREO BRASILEIRO 
+2026 
+ 
+<<<PAGINA 3>>>
+ 
+ 
+ANEXO I 
+AERONAVES NÃO TRIPULADAS E O ACESSO AO ESPAÇO AÉREO BRASIELIRO (ICA 100-40) 
+ 
+SUMÁRIO 
+Art. 
+CAPÍTULO I – DISPOSIÇÕES PRELIMINARES ............................................................................... 1º/7º 
+Seção I – Finalidade e Âmbito ..................................................................................................... 1º/2º 
+Seção II – Competências .................................................................................................................. 3º/6º 
+Seção III – Conceituações ................................................................................................................. 7º 
+CAPÍTULO II – ESTRUTURA DO ESPAÇO AÉREO BRASILEIRO ...................................................... 8º/18 
+Seção I – Das Organizações Regionais do DECEA   ........................................................................... 9º 
+Seção II – Do Uso Especial do Espaço Aéreo .................................................................................... 10/16 
+Seção III – Das Áreas Adequadas ..................................................................................................... 17/18 
+CAPÍTULO III – REGRAS PARA ACESSO AO ESPAÇO AÉREO BRASILEIRO ..................................... 19/47 
+Seção I – Regras Gerais .................................................................................................................... 19/36 
+Seção II – Regras Específicas ............................................................................................................ 37/47 
+CAPÍTULO IV – PROCESSO DE SOLICITAÇÃO DE AUTORIZAÇÃO ................................................. 48/65 
+Seção I – Do Cadastro no SARPAS .................................................................................................... 50/54 
+Seção II – Da Solicitação de Acesso ao Espaço Aéreo ...................................................................... 55/59 
+Seção III – Do Parecer da Organização Regional .............................................................................. 60/62 
+Seção IV – Da Emissão da Autorização SARPAS ............................................................................... 63/65 
+CAPÍTULO V – INFRAÇÕES DE TRÁFEGO AÉREO ......................................................................... 66/71 
+Seção I – Da Denúncia ...................................................................................................................... 67/69 
+Seção II – Da Fiscalização ................................................................................................................. 70/71 
+CAPÍTULO VI – SEGURANÇA OPERACIONAL .............................................................................. 72/77 
+Seção I – Do Planejamento do Voo .................................................................................................. 72/73 
+Seção II – Da Contingência ou Emergência ...................................................................................... 74/77 
+CAPÍTULO VII – DISPOSIÇÕES TRANSITÓRIAS ............................................................................ 78/79 
+CAPÍTULO VIII – DISPOSIÇÕES FINAIS ........................................................................................ 
+ANEXO II – LISTA DE CONTATOS 
+80/83 
+<<<PAGINA 4>>>
+ 
+ 
+CAPÍTULO I 
+DISPOSIÇÕES PRELIMINARES 
+Seção I 
+Finalidade e âmbito 
+Art. 1º  Esta Portaria estabelece  os procedimentos e responsabilidades para o acesso 
+seguro ao Espaço Aéreo Brasileiro por Aeronaves Não Tripuladas. 
+Art. 2º  As disposições desta Portaria são de observância obrigatória e se aplica m a todos 
+os envolvidos com a operação das aeronaves não tripuladas que utilizem o espaço aéreo sob jurisdição 
+do Brasil, bem como aos órgãos do SISCEAB. 
+Seção II 
+Competências 
+Art. 3º  À Agência Nacional de Telecomunicações (ANATEL), de acordo com os incisos VIII 
+e XIII, do artigo 19, da Lei º 9472/1997, compete: 
+I - administrar o espectro de radiofreq uências e o uso de órbitas, expedindo as 
+respectivas normas; e 
+II - expedir ou reconhecer a certificação de produtos, observados os padrões e normas 
+por ela estabelecidos. 
+Art. 4º  À Agência Nacional de Aviação Civil (ANAC), de acordo com os incisos XVII, XVIII e 
+XXXI, do Artigo 8º, da Lei nº 11.182/2005, compete: 
+I - proceder à homologação e emitir certificados, atestados, aprovações e autorizações, 
+relativos às atividades de competência do sistema de segurança de v oo da aviação civil, bem como 
+licenças de tripulantes , e certificados de habilitação técnica e de capacidade física e mental, observados 
+os padrões e normas por ela estabelecidos; 
+II - administrar o Registro Aeronáutico Brasileiro  (RAB) e disciplinar seu funcionamento, 
+os requisitos e os procedimentos para o registro; e 
+III - expedir certificados de aeronavegabilidade (C.A.). 
+Art. 5º  Ao Departamento de Controle do Espaço Aéreo (DECEA), órgão central do Sistema 
+de Controle do Espaço Aéreo Brasileiro (SISCEAB),  de acordo com o Artigo 21, do Anexo I, do Decreto nº 
+11.237/2022, compete: 
+I - planejar, gerenciar e controlar as atividades relacionadas ao controle do espaço aéreo, 
+à proteção ao voo, ao serviço de busca e salvamento e às telecomunicações do Comando da 
+Aeronáutica; e 
+II - apoiar a Junta de Julgamento da Aeronáutica em suas funções. 
+Art. 6º  À Junta de Julgamento da Aeronáutica (JJAER), de acordo com o § 1º, do Artigo 
+21, do Anexo I, do Decreto nº 11.237 /2022, compete apurar, julgar administrativamente e aplicar as 
+penalidades previstas na L ei nº 7.565, de 1986 , e na legislação complementar, por infrações de tráfego 
+aéreo e descumprimento das normas que regulam o Sistema de Controle do Espaço Aéreo Brasileiro. 
+<<<PAGINA 5>>>
+ 
+ 
+Seção III 
+Conceituações 
+Art. 7º  Para fins desta Instrução, devem ser observadas as seguintes conceituações: 
+I - acomodação – Termo genérico utilizado para permitir que uma atividade específica 
+ocorra em um determinado volume de espaço aéreo sem causar impacto à segurança e à regularidade 
+das operações aéreas; 
+II - Acordo Operacional (AOp) – Documento que visa  a estabelecer procedimentos 
+operacionais padronizados a serem seguidos pelas Partes Signatárias durante a execução de suas 
+atividades; 
+III - administrador SARPAS – Pessoa física, proprietária ou não de aeronave não tripulada  
+(UA), responsável por gerenciar as ações referentes à pessoa jurídica no SARPAS; 
+IV - aerolevantamento – Conjunto de Operações aéreas e/ou espaciais de medição, 
+computação e registro de dados do terreno com o emprego de sensores e/ou equipamentos adequados, 
+bem como a interpretação dos dados levantados ou sua tradução sob qualquer forma; 
+V - aeronave – Qualquer aparelho que possa sustentar -se na atmosfera a partir de 
+reações do ar que não sejam as reações do ar contra a superfície da terra; 
+VI - aeronave de propriedade do governo – Aeronave usada para serviços militares, 
+alfandegários ou policiais; 
+VII - Aeronave Não Tripulada (UA) – Aeronave que se pretenda operar sem piloto a bordo; 
+VIII - aeronave não tripulada autônoma – UA que não permite a intervenção do piloto no 
+gerenciamento do voo; 
+IX - aeronave não tripulada pequena – UA com peso máximo de decolagem (PMD) menor 
+ou igual a 25 Kg, inclusive as UA com PMD até 250g; 
+X - Além da Linha de Visada Visual  (BVLOS) – Tipo de Operação em que o Piloto Remoto 
+não consiga manter a UA dentro do seu alcance visual; 
+XI - altitude – Distância vertical entre um nível, ponto ou objeto considerado como ponto 
+e o nível médio do mar; 
+XII - altitude limite de voo – Altitude de voo resultante da soma entre a altitude do solo 
+no ponto de referência declarado na solicitação de acesso ao espaço aéreo e a Altura de Voo Solicitada; 
+XIII - altura – Distância Vertical de um nível, ponto ou objeto considerado como ponto e 
+uma determinada referência; 
+XIV - altura de voo solicitada – Altura relativa ao nível do solo no ponto de referência 
+informada pelo Operador de Aeronave na solicitação de acesso ao espaço aéreo; 
+XV - área adequada – Espaço aéreo com dimensões definidas no qua l parâmetros de 
+solicitação podem ser flexibilizados mediante condicionantes operacionais específicas; 
+XVI - área perigosa – espaço aéreo de dimensões definidas, sobre o território ou mar 
+territorial brasileiro, dentro do qual possam existir, em momentos específicos, atividades perigosas para o 
+voo de aeronaves; 
+<<<PAGINA 6>>>
+ 
+ 
+XVII - área proibida – espaço aéreo de dimensões definidas, sobre o território ou mar 
+territorial brasileiro, dentro do qual o voo de aeronaves é proibido; 
+XVIII - área restrita – espaço aéreo de dimensões definidas, sobre o território ou mar 
+territorial brasileiro, dentro do qual o voo de aeronaves é restringido conforme certas condições 
+definidas; 
+XIX - autorização SARPAS – Autorização emitida para que uma UA acesse o Espaço Aéreo 
+Brasileiro, com o propósito de garantir a manutenção da segurança da navegação aérea, conforme 
+previsto no artigo 8º da Convenção de Chicago; 
+XX - Aviso aos Aeronavegantes  (NOTAM) – Aviso distribuído por meio de 
+telecomunicações que contém informação relativa a estabelecimento, condição ou modificação de 
+qualquer instalação aeronáutica, serviço, procedimento ou perigo, cujo conhecimento oportuno seja 
+indispensável para o pessoal encarregado das operações de voo; 
+XXI - categoria aberta – Categoria de o peração de Sistema de Aeronave Não Tripulada 
+(UAS) com baixo risco, realizada por UA com PMD menor ou igual a  25 Kg, VLOS, até 120 m de altura  e 
+sem interseção com Espaço Aéreo Condicionado (EAC) ou Zona de Restrição de Voo (FRZ); 
+XXII - categoria específica – Categoria de o peração UAS que não cumpre as regras 
+previstas para categoria aberta e deve cumprir um cenário padrão ou critérios estabelecidos de acordo 
+com o risco operacional da operação pretendida; 
+XXIII - categoria certificada – Categoria de o peração UAS realizada por UA certificada, 
+com Certificado de Tipo emitido para o UAS, incluindo a UA e as interdependências entre seus 
+componentes; 
+XXIV - cenário padrão – Significa um tipo de operação de UAS dentro da categoria 
+específica para a qual a ANAC  determinou critérios específicos e individualizados que precisam ser 
+atendidos pelos operadores, pelo UAS ou pela  tripulação remota , de forma a garantir um nível de 
+segurança aceitável para a operação; 
+XXV - contas DECEA – Plataforma centralizada para gerenciar contas de usuários e 
+permissões de acesso aos serviços digitais do DECEA; 
+XXVI - crash sites – Pontos no terreno onde haverá o contato da UA com o solo  em caso 
+de contingência ou emergência; 
+XXVII - defesa civil – Conjunto de medidas que visam prevenir e limitar, em qualquer 
+situação, os riscos e perdas a que estão sujeitos a população, os recursos da nação e os bens materiais 
+de toda espécie, tanto por agressão externa quando em consequência de calamidades e desastres da 
+natureza; 
+XXVIII - enlace Comando e Controle  (C2) – Enlace entre a UA e a Estação de Pilotagem 
+Remota (RPS) com o propósito de gerenciar o voo; 
+XXIX - Espaço Aéreo Condicionado  (EAC) – Espaço aéreo de dimensões definidas para 
+utilização de usuários específicos, incluindo Área Reservada Temporariamente (TRA), Área Segregada 
+Temporariamente (TSA) e Áreas Perigosas, Proibidas e Restritas; 
+XXX - espaço aéreo segregado – Espaço aéreo de dimensões especificadas, alocado para 
+uso exclusivo de um usuário (ou usuários) específico(s); 
+<<<PAGINA 7>>>
+ 
+ 
+XXXI - Estação de Pilotagem Remota (RPS) – Componente do UAS que contém os 
+equipamentos necessários à pilotagem da UA; 
+XXXII - explorador – Pessoa física ou jurídica, proprietária ou não, que utiliza a aeronave 
+de forma legítima, direta ou indireta, com ou sem fins lucrativos; 
+XXXIII - falha de enlace C2 – Falha de enlace entre a UA e a RPS que impossibilite, mesmo 
+que momentaneamente, a sua pilotagem; 
+XXXIV - fly-away – Interrupção ou perda do Enlace C2, de forma que o piloto remoto não 
+esteja mais controlando a UA e esta não esteja executando seus procedimentos pré -programados da 
+maneira prevista; 
+XXXV - Linha de Visada Visual (VLOS) – Tipo de Operação na qual o piloto ou Observador 
+de UA mantém o contato visual direto com a UA (sem auxílio de lentes ou outros equipamentos, exceto 
+as lentes corretivas); 
+XXXVI - observador de  UA – Integrante da equipe UAS designado pelo Operador  de 
+Aeronave que, por meio da observação visual de uma Aeronave, auxilia o Piloto Remoto na condução 
+segura do voo; 
+XXXVII - operação aérea especial – Operação real realizada em circunstância s incomuns, 
+geralmente executadas em situações de emergência ou quando surg irem eventos inesperados que , em 
+alguns casos, exigem uma resposta imediata; 
+XXXVIII - operação aeroagrícola – Operação com a finalidade de proteger ou fomentar o 
+desenvolvimento da agricultura em qualquer de seus aspectos, mediante a aplicação em voo de 
+fertilizantes, sementes, inseticidas, herbicidas e outros defensivos, povoamento de águas e combate a 
+incêndios em campos e florestas, combate a insetos, a vetores de doenças ou outros empregos 
+correlatos; 
+XXXIX - operação automatizada – Operação em que a UA cumpre automaticamente o 
+planejamento de voo programado e durante a qual, em condições normais de funcionamento dos 
+componentes UAS, é possível ao Piloto Remoto intervir na condução da operação em todas as suas 
+fases; 
+XL - operação atípica – Operação que apresenta características que impossibilitam o 
+cumprimento de critérios estabelecidos nesta Instrução; 
+XLI - operação de aerolevantamento – Operação com a finalidade de realizar medição, 
+computação e registro de dados do terreno com o emprego de sensores e/ou equipamentos 
+adequados; 
+XLII - operação no entorno de estrutura – Operação realizada em torno de qualquer 
+estrutura ou obstáculo, quer seja artificial ou natural,  limitada verticalmente a cinco metros acima da 
+altura da estrutura ou do obstáculo e afastada horizontalmente até trinta metros deste; 
+XLIII - operação padrão – Operação realizada em conformidade com as regras 
+estabelecidas nesta instrução, sem adoção de procedimentos especiais; 
+XLIV - operação recreativa – Operação realizada por UA pequena com finalidade 
+exclusivamente voltada à recreação; 
+<<<PAGINA 8>>>
+ 
+ 
+XLV - operador de aeródromo – Também denominado explorador de infraestrutura 
+aeroportuária, significa toda pessoa natural ou jurídica que administre, explore, mantenha e preste 
+serviços em aeródromo de uso público ou privado, próprio ou não, com ou sem fins lucrativos; 
+XLVI - operador de aeronave – Pessoa, organização ou empresa que se dedica, ou se 
+propõe dedicar, à operação de aeronaves; 
+XLVII - organização regional do DECEA – Organização Militar, subordinada ao DECEA, 
+responsável pela prestação de serviços à navegação aérea em uma determinada área do território 
+nacional; 
+XLVIII - órgãos especiais – Expressão genérica que se aplica aos Órgãos dos Poderes 
+Executivo, Legislativo ou Judiciário no âmbito Federal, Estadual e Municipal ou Órgãos que fornecem 
+serviços essenciais à manutenção da vida das pessoas ou à redução do sofrimento; 
+XLIX - Peso Máximo de Decolagem  (PMD) – É o peso máximo que uma UA pode ter para 
+ser capaz de decolar e realizar um voo com segurança; 
+L - piloto remoto – Piloto que manipula ou gerencia diretamente os controles de voo de 
+uma UA; 
+LI - piloto remoto em comando – Piloto remoto designado pelo Explorador ou Operador 
+de Aeronave para estar no comando e encarregado da condução segura de um voo; 
+LII - plano de terminação de voo – Conjunto de procedimentos, sistemas e funções 
+preestabelecidos e planejados para finalizar um voo de forma controlada, em caso de emergência, com 
+a finalidade de minimizar a possibilidade de ferir ou causar dano a pessoas, propriedades ou outras 
+aeronaves no solo e no ar; 
+LIII - ponto de referência – Coordenada Geográfica, pertencente à Área de Voo solicitada, 
+utilizada para definição da Altitude Limite de Voo, podendo ser coincidente ou não com o ponto de 
+decolagem; 
+LIV - produto AIS – Informação aeronáutica disponibilizada na forma de um conjunto de 
+dados digitais ou em uma apresentação padrão em papel ou em formato digital, conforme ICA 53 -8 
+“Serviços de Informação Aeronáutica”; 
+LV - regresso a casa ( Return to Home ) ( RTH) – Função que permite à UA retornar 
+automaticamente ao ponto inicial, ou seja, ao local de decolagem; 
+LVI - solicitante – Pessoa física, proprietária ou não, que solicite a operação da UA; 
+LVII - seção SARPAS – Seção, localizada no Centro de Gerenciamento da Navegação Aérea 
+(CGNA), caracterizada por um conjunto de encargos com a finalidade de gerenciar atividades 
+administrativas referentes ao cadastramento de Pilotos Remotos e Aeronaves Não Tripuladas, além de 
+gerenciar a posição Tático SARPAS; 
+LVIII - Sistema de Aeronave Não Tripulada (UAS) – Sistema composto pela Aeronave e 
+seus elementos associados, podendo ser remotamente pilotada ou totalmente autônoma; 
+LIX - Sistema para Solicitação de Acesso ao Espaço Aéreo Brasileiro por Aeronaves Não 
+Tripuladas (SARPAS) – Sistema desenvolvido para solicitação de acesso ao espaço aéreo brasileiro pelos 
+usuários desse segmento aeronáutico; 
+LX - tático SARPAS – Atribuição Operacional, localizada no CGNA, caracterizada por um 
+conjunto de encargos atribuídos ao Gerente Nacional de Fluxo (GNAF), com a finalidade de receber as 
+<<<PAGINA 9>>>
+ 
+ 
+informações relatadas pelos usuários externos, referentes à fly-away, e difundir alertas de perigo aos 
+Órgãos ATS locais, com vistas a subsidiar as equipes para que sejam adotadas as medidas necessárias 
+em prol da manutenção da segurança operacional; 
+LXI - Termo de Coordenação (TCo) – Documento que contém informações operacionais 
+para a operação de UA, mediante coordenação entre o Operador d e aeronave e o Órgão ATS local ou, 
+na ausência deste, o Operador de Aeródromo , bem como o Administrador de EAC classificado como 
+TRA, TSA ou Área restrita , com a finalidade de assessorar a Organização Regional  durante a análise da 
+solicitação de acesso ao espaço aéreo brasileiro no SARPAS; 
+LXII - Zona de Aproximação ou de Decolagem (ZAD) – Área no setor de pouso e 
+decolagem do aeródromo; 
+LXIII - Zona de Entorno de Aeródromo (ZEA) – Área no entorno do aeródromo, excluindo -
+se as áreas pertencentes à ZAD; 
+LXIV - Zona de Entorno de Heliponto (ZEH) – Área no entorno do heliponto; 
+LXV - Zona de Restrição de Voo (FRZ) – Espaço aéreo de dimensões definidas  dentro do 
+qual o voo de UA é restringido conforme certas condições definidas;  
+LXVI - Zona Proibida ao Voo (NFZ) – Área específica, definida a critério do fabricante do 
+equipamento, onde o voo é bloqueado tecnicamente; e 
+LXVII - zona UTM – Volume de espaço aéreo onde a segurança e a eficiência do acesso de 
+UAS são garantidas por meio de serviços, regras e procedimentos específicos, impulsionados por 
+elevados níveis de digitalização. 
+CAPÍTULO II 
+ESTRUTURA DO ESPAÇO AÉREO BRASILEIRO 
+Art. 8º  Os Serviços de Tráfego Aéreo (ATS) são prestados em todo o espaço aéreo que se 
+superpõe ao território nacional, incluindo águas territoriais e jurisdicionais, bem como o espaço aéreo 
+que tenha sido objeto de Acordo Regional de Navegação Aérea. 
+Parágrafo único. Para fins de prestação dos ATS, o espaço aéreo de responsabilidade do 
+Brasil foi estendido, por meio de Acordo Regional de Navegação Aérea, até o meridiano 10 Oeste (W), 
+conforme descrito no Doc. 8733/ANP/CAR/SAM – Plano de Navegação Aérea – Regiões do Caribe e da 
+América do Sul. 
+Seção I 
+Das Organizações Regionais do DECEA 
+Art. 9º  Os Serviços de Tráfego Aéreo no Brasil  são providos pelos diversos órgãos ATS, 
+subordinados/jurisdiscionados à s Organizações Regionais do DECEA, dentro dos respectivos espaços 
+aéreos de responsabilidade. 
+Parágrafo único. São Organizações Regionais do DECEA os CINDACTA I, II, III e IV e o 
+CRCEA-SE. 
+<<<PAGINA 10>>>
+ 
+ 
+ 
+Figura 1 – Organizações Regionais do DECEA 
+Seção II 
+Do Uso Especial do Espaço Aéreo 
+Art. 10.  O DECEA se reserva o direito de criar, cadastrar, recadastrar, ativar ou cancelar 
+EAC e FRZ, a qualquer tempo, em razão do interesse estratégico ou da necessidade operacional. 
+Art. 11.  As FRZ são previstas em aeródromos, áreas de segurança ou locais de interesse 
+estratégico. 
+Art. 12.  As FRZ em aeródromos são estabelecidas pelo DECEA. 
+Art. 13.  As FRZ em áreas de segurança ou locais de interesse estratégico e os EAC são 
+estabelecidos conforme preconizado na ICA 100-36 “Uso Especial do Espaço Aéreo”. 
+Parágrafo único. São consideradas áreas de segurança, dentre outras: 
+I - refinarias; 
+II -  plataformas de exploração de petróleo; 
+III -  depósitos de combustível; 
+IV -  estabelecimentos penais; 
+V -  áreas militares; 
+VI -  sedes de Governos; 
+VII -  instalações hidroelétricas, termoelétricas ou nucleares; 
+VIII -  subestações e linhas de transmissão de energia;  
+
+<<<PAGINA 11>>>
+ 
+ 
+IX - redes de abastecimento de água ou gás,  
+X - barragens ou represas; e 
+XI -  redes de comunicação ou de vigilância da navegação aérea. 
+Subseção I 
+Dimensão das FRZ e dos EAC 
+FRZ em aeroportos 
+Art. 14.  O volume de espaço aéreo da s FRZ de aeroportos possui limites laterais e 
+verticais conforme parâmetros e modelos constantes abaixo: 
+Figura 2 - Modelo FRZ Aeroportos (Vista Superior) 
+Figura 3 - ZEA e ZAD de Aeroportos (Vista Perfil) 
+ 
+
+<<<PAGINA 12>>>
+ 
+ 
+FRZ em Helipontos 
+Art. 15.  O volume de espaço aéreo das FRZ de helipontos possui limites laterais e 
+verticais conforme parâmetros e modelos constantes abaixo: 
+ 
+ 
+Figura 4 - Modelo FRZ Helipontos (Vista Superior) 
+ 
+Figura 5 - ZEH Helipontos (Vista Perfil) 
+FRZ em área de segurança ou local de interesse estratégico e em EAC 
+Art. 16.  O volume de espaço aéreo das FRZ em área de segurança  ou local de interesse 
+estratégico e dos EAC possuem limites laterais e verticais conforme autorizado e divulgado por meio de 
+produto AIS. 
+Seção III 
+Das Áreas Adequadas 
+Art. 17.  O DECEA se reserva o direito de criar, cadastrar, recadastrar, ativar ou cancelar 
+Áreas Adequadas, a qualquer tempo, em razão do interesse estratégico ou da necessidade operacional. 
+Art. 18.  A Organização Regional é responsável pela criação da Área Adequada mediante 
+avaliação prévia do impacto operacional da atividade pretendida. 
+
+<<<PAGINA 13>>>
+ 
+ 
+CAPÍTULO III 
+REGRAS PARA ACESSO AO ESPAÇO AÉREO BRASILEIRO 
+Seção I 
+Regras gerais 
+Art. 19.  Nenhuma UA pode acessar o Espaço Aéreo Brasileiro sem Autorização do Estado 
+Brasileiro, conforme restrição expressa no artigo 8º da Convenção de Chicago. 
+§ 1º  A autorização para operação de UA será concedida mediante integração ou 
+acomodação por meio de condicionantes operacionais ou segregação de espaço aéreo. 
+§ 2º  As UA autônomas não são objeto des ta regulamentação e não estão autorizadas a 
+acessar o espaço aéreo brasileiro. 
+§ 3º  A operação de UA próxima a aeródromos e auxílios à navegação aérea, sem a devida 
+autorização do Órgão competente, é considerado Ato de Interferência Ilícita contra a Aviação Civil, de 
+acordo com o previsto no Programa Nacional de Segurança AVSEC para o SISCEAB. 
+§ 4º  O procedimento previsto no caput, aplica-se inclusive às UA com PMD até 250g. 
+Art. 20.  A operação de UA deve possuir equipamento s de Comunicação, Vigilância e 
+Navegação (CNS) compatíveis com os exigidos para o espaço aéreo utilizado, bem como pelo Serviço de 
+Tráfego Aéreo (ATS) prestado na área em que pretende operar. 
+§ 1º  Os equipamentos CNS podem ser substituídos por meio alternativo, desde que 
+mantenham a interoperabilidade, compatibilidade, segurança e eficiência. 
+§ 2º  Aeronaves Não Tripuladas com PMD menor ou igual  a 25 kg, operando VLOS e até 
+400 pés (120 m) AGL, independentemente da classe do espaço aéreo sobrevoado, salvo determinação 
+contrária, estão dispensadas dos equipamentos CNS. 
+§ 3º  A dispensa de equipamentos CNS de que trata o § 2º, pode ser excepcionalmente 
+aplicada a operações com requisitos di stintos dos estabelecidos , desde que haja parecer favorável da 
+Organização Regional. 
+§ 4º  A dispensa de equipamentos CNS de que trata os §2º e § 3º, não se aplica a luzes de 
+navegação no período noturno. 
+Art. 21.  Utilizar fraseologia de acordo com o preconizado no MCA 100 -16 “Fraseologia de 
+Tráfego Aéreo” quando for exigido comunicação bilateral. 
+Parágrafo único. Deve-se utilizar a expressão “RPA” na radiotelefonia, antes do código de 
+chamada da UA, para aumentar a consciência situacional entre controladores de tráfego aéreo e pilotos 
+de outras aeronaves. 
+Art. 22.  Apresentar Plano de Voo (FPL) de acordo com o MCA 100 -11 “Manual para 
+Preenchimento dos Formulários de Plano de Voo”, quando for exigido FPL. 
+Parágrafo único. Se o designador do tipo de UA ainda não tiver sido definido, preencher 
+“ZZZZ” no item 9 do Plano de Voo, indicando o tipo de aeronave no item 18, precedido de TYP/UAS. 
+Art. 23.  Cabe ao Piloto Remoto, quando em Operação VLOS, manter a segurança da 
+navegação, bem como evitar colisões com obstáculos. 
+Art. 24.  Para manter a Operação em VLOS, é obrigatório o auxílio de Observador de UA  
+nas seguintes situações: 
+<<<PAGINA 14>>>
+ 
+ 
+I - quando o Piloto Remoto utilizar óculos FPV; ou 
+II - quando a operação VLOS for estendida. 
+§ 1º  A Utilização de  óculos FPV  ou a realização de operação VLOS estendida sem 
+observador de UA caracteriza uma operação BVLOS. 
+§ 2º  A comunicação entre o piloto remoto e o observador de UA deve ser direta e 
+constante. 
+Art. 25.  Operações realizadas mediante segregação do espaço aéreo: 
+I - BVLOS; 
+II - acima de 400 pés (120 m) AGL; e 
+III - com UA com PMD maior que 25 Kg. 
+Parágrafo único. As operações previstas no caput estão condicionadas a divulgação por 
+meio de Produto AIS. 
+Art. 26.  Cabe ao Piloto Remoto em Comando conhecer o meio de contato d o Tático 
+SARPAS. 
+Art. 27.  Não operar sob condições meteorológicas (precipitação, vento, nevoeiro) ou 
+qualquer condição que coloque em risco a operação da UA. 
+Art. 28.  É obrigatória a apresentação do Termo de Coordenação quando a Operação 
+possuir interseção com FRZ. 
+Parágrafo único. A obrigatoriedade prevista no caput fica dispensada quando realizada 
+em Área Adequada. 
+Art. 29.  A operação em EAC deve observar as seguintes disposições: 
+I -  é vedada a operação em área proibida; 
+II - é obrigatória a apresentação do Termo de Coordenação quando a operação  possuir 
+interseção com TRA, TSA ou área restrita; e 
+III - é dispensada a apresentação do Termo de Coordenação quanto a operação possuir 
+interseção com área perigosa.   
+Parágrafo único. No caso previsto no inciso III do caput, cabe ao piloto decidir se aceita os 
+possíveis riscos associados ao ingresso em área perigosa. 
+Art. 30.  É proibida a realização de operação que possua interseção com Rota Especial de 
+Helicóptero (REH).  
+Art. 31.  A operação em área confinada não é considerada atividade em espaço aéreo e, 
+portanto, não é de responsabilidade do DECEA. 
+Art. 32.  Para a Operação Recreativa, aplicam-se os seguintes limites: 
+I - altura máxima de 200 pés (60 metros) acima do nível do solo (AGL); e 
+II - distância horizontal máxima de 300 m. 
+Art. 33.  A Operação de UA militar deve cumprir as regras previstas nesta Portaria. 
+Parágrafo único. Quando operar sob regras da C irculação Operacional Militar , deve 
+<<<PAGINA 15>>>
+ 
+ 
+cumprir o previsto na ICA 100-13 em vigor. 
+Art. 34.  As Operações Especiais  de Órgãos de Segurança Pública e Defesa Civil têm 
+prioridade sobre as demais operações de UA. 
+Art. 35.  Cabe ao Explorador, ao Operador de Aeronave e ao Piloto Remoto em Comando 
+da aeronave a observância das normas estabelecidas pelas demais autoridades competentes, tais como: 
+ANAC, ANATEL, MAPA e MD. 
+Art. 36.  Mesmo que tenha sido autorizada, toda e qualquer operação de UA deve ser 
+imediatamente encerrada ao ser verificada a aproximação de aeronaves tripuladas ou de operação de 
+UA dos Órgãos de Segurança Pública e Defesa Civil. 
+Seção II 
+Regras específicas 
+Subseção I 
+Da Categoria Aberta 
+Art. 37.  A categoria aberta será avaliada conforme impacto operacional da atividade 
+pretendida. 
+Art. 38.  Durante a análise da categoria aberta, são considerados os seguintes requisitos: 
+I - possuir PMD menor ou igual a 25 Kg; 
+II - operar em VLOS; 
+III - manter altura de até 400 pés (120 m) AGL; e 
+IV - não possuir interseção com EAC classificado como TRA, TSA e área restrita ou FRZ. 
+§ 1º  Para efeito do inciso I do caput, deve -se incluir no cálculo do PMD o combustível, 
+cargas, equipamentos transportados e acessórios. 
+§ 2º  A altura máxima de que trata o inciso III do caput não dispensa a restrição imposta 
+pela Altitude Limite de Voo. 
+§ 3º  A altura máxima prevista no inciso I II do caput para Operação Recreativa é de 2 00 
+pés (60 m) AGL. 
+§ 4º  Para fins do disposto no inciso IV do caput, deve-se utilizar os parâmetros das FRZ de 
+aeródromos e helipontos disponíveis no Capítulo II “Estrutura do Espaço Aéreo Brasileiro”. 
+Subseção II 
+Da Categoria Específica 
+Art. 39.  A categoria específica será avaliada conforme impacto operacional da atividade 
+pretendida.  
+Art. 40.  Durante a análise da categoria  específica, são considerados os seguintes 
+requisitos: 
+I - possuir PMD maior que 25 Kg; 
+II - operar em BVLOS; 
+III - operar acima de 400 pés (120 m) AGL; ou 
+IV - possuir Interseção com EAC classificado como TRA, TSA e área restrita ou FRZ. 
+<<<PAGINA 16>>>
+ 
+ 
+§ 1º  Para efeito do inciso I do caput, deve -se incluir no cálculo do PMD o combustível, 
+cargas, equipamentos transportados e acessórios. 
+§ 2º  A altura máxima de que trata o inciso III do caput não dispensa a restrição imposta 
+pela Altitude Limite de Voo. 
+§ 3º  A altura máxima prevista no inciso I II do caput para Operação Recreativa é de 200 
+pés (60 m) AGL. 
+§ 4º  Para fins do disposto no inciso IV do caput, deve-se utilizar os parâmetros das FRZ de 
+aeródromos e helipontos disponíveis nas Tabelas do Capítulo II “Estrutura do Espaço Aéreo Brasileiro”. 
+Subseção III 
+Da Categoria Certificada 
+Art. 41.  A categoria certificada, quando aplicável,  será autorizada após  avaliação do 
+impacto operacional da atividade pretendida. 
+Parágrafo único. A UA será integrada ao espaço aéreo, utilizando -se parâmetros 
+específicos. 
+Subseção IV 
+Da Operação Aérea Especial 
+Art. 42.  São considerados Órgãos Especiais: 
+I - órgãos do Poder Executivo; 
+II - órgãos do Poder Legislativo; 
+III - órgãos do Poder Judiciário; ou 
+IV - órgãos que fornecem serviço s essenciais à manutenção da vida das pessoas ou à 
+redução do sofrimento humano. 
+§ 1º  Incluem-se nos incisos I, II e III do caput os Órgãos das esferas Federal, Estadual , 
+Distrital e Municipal. 
+§ 2º  Entre os Órgãos referidos no inciso IV do caput, destacam-se, entre outros, aqueles 
+relacionados às seguintes atividades: 
+I - abastecimento de água potável; 
+II - fornecimento de energia elétrica, gás e combustíveis; 
+III - assistência médica e hospitalar; 
+IV - saneamento básico; 
+V - guarda, uso e controle de material Químico, Biológico, Radiológico e Nuclear (QBRN); 
+VI - apoio a acidentes e incidentes rodoviários, ferroviários, aéreos e marítimos; 
+VII - infraestrutura aeroportuária e de tráfego aéreo; 
+VIII - resposta a calamidades públicas; 
+IX - emergência ambiental; e 
+X - mineração (minas e barragens). 
+<<<PAGINA 17>>>
+ 
+ 
+§ 3º  Incluem-se, para fins do  §1º do caput, os Órgãos da Administração Pública Direta e 
+Indireta. 
+Art. 43.  Consideram-se Órgãos Especiais com necessidade de resposta  imediata, entre 
+outros: 
+I - Forças Armadas; 
+II - Segurança Pública; 
+III - Defesa Civil; 
+IV - Força Nacional de Segurança Pública; 
+V - Guardas Municipais; 
+VI - Receita Federal do Brasil; 
+VII - institutos de criminalística, medicina legal e identificação; 
+VIII - órgãos no exercício de atividade de inteligência de Estado; e 
+IX - órgãos da Administração Pública no exercício do Poder de Polícia Administrativa. 
+§ 1º  Para ser considerado um Órgão Especial com necessidade de resposta imediata,  o 
+Órgão deve ser acreditado pelo DECEA.  
+§ 2º   O processo de acreditação está disponível no endereço eletrônico: 
+https://www.decea.mil.br/drone/. 
+Art. 44.  A Operação Aérea Especial deve ser realizada: 
+I -  por Órgãos Especiais; ou 
+II - por aeronave vinculada ao Órgão Especial. 
+§ 1º  Além do previsto nos incisos I e II do caput, a operação deve atender aos seguintes 
+requisitos: 
+I - ocorrer em circunstância incomuns, geralmente associadas a situações de emergência 
+ou a eventos inesperados; 
+II - não permitir a realização de planejamento prévio; 
+III - possuir PMD menor ou igual a 25 Kg; 
+IV - operar em VLOS; e 
+V - manter altura de até 400 pés (120 m) AGL. 
+§ 2º  Quando a operação possuir interseção com EAC  classificado como TRA, TSA e área 
+restrita ou FRZ , o  Órgão Especial deve realizar, antecipadamente, estreita coordenação com o(s) 
+órgão(s) ATS, operador(es) de aeródromo ou responsável(is) pelo EAC. 
+Art. 45.  O Órgão Especial com necessidade de resposta imediata, acreditado pelo DECEA, 
+pode ser autorizado a operar acima de 400 pés ou em BVLOS, desde que a operação seja realizada: 
+I - em Espaço Aéreo Segregado; e 
+II - mediante Acordo Operacional previamente estabelecido.  
+Art. 46.  As n ecessidades operacionais para procedimentos exclusivos das Operações 
+<<<PAGINA 18>>>
+ 
+ 
+Especiais devem ser abordadas em Acordo Operacional. 
+Art. 47.  Cabe aos Órgãos Especiais observar as demais regras relativas à Operação Aérea 
+Especial preconizadas nesta Instrução. 
+CAPÍTULO IV 
+PROCESSO DE SOLICITAÇÃO DE AUTORIZAÇÃO 
+Art. 48.  Nenhuma aeronave pode ser autorizada para o voo sem a prévia expedição do 
+correspondente certificado de aeronavegabilidade , conforme artigo 114 da Lei nº 7.565/1986 (Código 
+Brasileiro de Aeronáutica - CBA). 
+Art. 49.  Salvo permissão especial, nenhuma aeronave pode voar no espaço aéreo 
+brasileiro, aterrissar no território subjacente ou dele decolar, a não ser que tenha:  marcas de 
+nacionalidade e matrícula, e esteja munida dos respectivos certificados de matrícula e 
+aeronavegabilidade, conforme artigo 20 da Lei nº 7.565/1986 (CBA). 
+Parágrafo único. A autoridade de aviação civil pode, por meio de regulamento, 
+estabelecer as condições para os voos com certificado de aeronavegabilidade especial.  
+Seção I 
+Do cadastro no SARPAS 
+Art. 50.  O cadastro e a geração do ID Operacional para  o Perfil Pessoa Física devem ser 
+realizados por meio do Login Único do Governo Federal (gov.br). 
+Parágrafo único. Nos casos em que o DECEA julgar a impossibilidade de cadastro 
+conforme previsto no caput, será utilizado o Contas DECEA. 
+Art. 51.  O Perfil Pessoa Jurídica deve ser vinculado a um perfil Pessoa Física, que será 
+designado como Administrador SARPAS da respectiva Pessoa Jurídica. 
+Art. 52.  O cadastro do Piloto de UA das Forças Armadas de ve ser realizado pelo 
+Administrador SARPAS da Organização Militar, mediante inclusão do ID Operacional do usuário na 
+equipe da Organização Militar.  
+Parágrafo único. A formação e a capacitação dos Pilotos integrantes das Forças Armadas 
+são de competência das respectivas Forças Armadas: Marinha, Exército e Aeronáutica. 
+Art. 53.  A UA Civil cadastrada no SISANT será disponibilizada aos Perfis de Pessoa Física 
+ou Jurídica, conforme registro na ANAC, por meio de sincronização entre os sistemas. 
+Art. 54.  O cadastro de UA pertencente às Forças Armadas no SARPAS é de 
+responsabilidade do Administrador SARPAS da Organização Militar solicitante. 
+§ 1º  Para deferimento do cadastro , é  obrigatório anexar digitalmente  documento 
+probatório contendo os dados da aeronave. 
+§ 2º  Caso a UA militar possua PMD maior que 25 Kg, opere acima de 400 pés (120 m) AGL 
+ou realize operações BVLOS, será obrigatório anexar digitalmente a documentação de Certificação da 
+UA. 
+§ 3º  O Registro da UA pertencente às Forças Armadas é de competência exclusiva das 
+respectivas Forças Armadas: Marinha, Exército e Aeronáutica. 
+<<<PAGINA 19>>>
+ 
+ 
+§ 4º  O processo para cadastro de UA bem como os modelos de documento probatório e 
+de Documentação de Certificação da UA  estão disponíveis  no seguinte endereço:  
+https://www.decea.mil.br/drone/. 
+Seção II 
+Da solicitação de acesso ao espaço aéreo 
+Regras Gerais 
+Art. 55.  O acesso ao Espaço Aéreo Brasileiro deve ser solicitado por meio do SARPAS. 
+§ 1º   O acesso ao SARPAS está disponível no endereço: 
+https://servicos.decea.mil.br/sarpas/. 
+§ 2º   As Operações recreativas realizadas em EAC destinado à recreação  estão 
+dispensadas de solicitação. 
+§ 3º  Para cálculo do PMD, deve -se incluir o combustível, as cargas, os equipamentos 
+transportados e os acessórios. 
+Art. 56.  A solicitação não será aceita quando: 
+I - não cumprir o prazo de antecedência mínima , previsto nesta Portaria , em relação  ao 
+início da operação pretendida; 
+II - realizada com antecedência superior a noventa dias corridos em relação ao início da 
+operação; 
+III - realizada com período de duração superior a noventa dias corridos;  
+IV - o período de realização do voo das Operações Aéreas Especiais ultrapassar quatro 
+dias da data de solicitação; 
+V - possuir interseção com EAC classificado como área proibida; 
+VI - possuir interseção com REH; ou 
+VII - não apresentar todas as informações necessárias. 
+Art. 57.  Prazo de antecedência mínima para solicitação , tomando como base a data e  o 
+horário de início da operação: 
+I - 30 (trinta) minutos: 
+a) categoria aberta; 
+b) categoria específica ou certificada: 
+1. PMD menor ou igual a 25 Kg; 
+2. VLOS; 
+3. até 400 pés; e 
+4. sem interseção com EAC classificado como TRA, TSA e área restrita ou FRZ; 
+c) operação realizada em Área Adequada; 
+d) operação Aérea Especial; ou 
+e) operações em Zona UTM; 
+<<<PAGINA 20>>>
+ 
+ 
+II - quatro dias corridos: 
+a) categoria específica ou certificada: 
+1.  PMD menor ou igual a 25 Kg; 
+2. VLOS; 
+3. até 400 pés; e 
+4. com interseção com EAC classificado como TRA, TSA e área restrita ou FRZ; 
+b) operação de aerolevantamento; ou 
+c) operação que envolver área de voo superior a 100 Km²; 
+III - oito dias corridos: 
+a) categoria específica ou certificada: 
+1. PMD maior que 25 Kg; 
+2. BVLOS; 
+3. acima de 400 pés; ou 
+4. com ou sem interseção com EAC classificado como TRA, TSA e área restrita ou FRZ; 
+b) operação Atípica; ou 
+c) outras operações que exijam divulgação por meio de Produto AIS. 
+§ 1º  Além do previsto no inciso I do caput, podem cumprir prazo de antecedência de 30 
+(trinta) minutos: 
+I - as operações previstas no inciso II, alínea “a” do caput, que possua interseção com EAC 
+classificado como TRA, TSA e área restrita  ou FRZ em área de segurança , desde que  realizada pelo 
+responsável da respectiva área ou em proveito deste; e 
+II - operação aeroagrícola de categoria específica, sem interseção com EAC classificado 
+como TRA, TSA e área restrita  ou FRZ, realizada por UA com PMD maior que 25 Kg , em operação VLOS 
+até 100 pés (30 m) , destinada à aplicação de agrotóxicos e afins, adjuvantes, fertilizantes, inoculadores, 
+corretivos e sementes sobre áreas desabitadas. 
+§ 2º  Exclui-se da hipótese prevista no inciso I, alíneas “a” e “b”, do caput, a operação que 
+envolver área de voo superior a 100 Km². 
+§ 3º  O Órgão Especi al com necessidade de resposta imediata , acreditado pelo DECEA  e 
+atuando no estrito cumprimento do dever legal, pode registrar a  solicitação d a operação no SARPAS 
+após a realização do voo, desde que atendidas as seguintes condições: 
+I - haja impossibilidade de solicitação prévia; 
+II - o registro seja realizado em  até 24  (vinte e quatro) horas após o encerramento da 
+operação; 
+III - a operação seja realizada: 
+a) por UA com PMD menor ou igual a 25Kg; 
+b) VLOS; 
+<<<PAGINA 21>>>
+ 
+ 
+c) até 400 pés; e  
+d) sem interseção com EAC  classificado como TRA, TSA, área restrita e área proibida  ou 
+FRZ. 
+Art. 58.  A veracidade e precisão das informações constantes na solicitaçã o são de total 
+responsabilidade do Solicitante.  
+Em Zona UTM 
+Art. 59.  As solicitações em Zona UTM devem cumprir os seguintes critérios: 
+I - tempo máximo de 1 hora de voo para voos VLOS ou BVLOS; 
+II - quando VLOS, área circular máxima de 15 Km²; e 
+III - quando BVLOS, área circular máxima de 30 Km². 
+Seção III 
+Do parecer da Organização Regional 
+Art. 60.  Considerando o impacto na navegação aérea, o  parecer da Organização Regional 
+poderá ser emitido: 
+I - automaticamente, quando a atividade não impactar a navegação; ou 
+II - após análise da Organização Regional, quando houver impacto à navegação aérea.  
+Art. 61.  Durante a análise, a Organização Regional responsável pela área solicitada pode: 
+I - solicitar documentos complementares  para comprovação das medidas mitigadoras 
+para manutenção da segurança operacional, tais como:  
+a) Carta de Acordo Operacional (CAOp); 
+b) Acordo Operacional (AOp); e 
+c) Termo de Coordenação (TCo); 
+II - retornar o processo ao solicitante para realização de ajustes quando a Análise indicar 
+ser pertinente; 
+III - dispensar ou substituir o Termo de Coordenação p or Produto AIS quando a Análise 
+indicar ser pertinente e necessário; 
+IV - exigir comunicação bilateral por meio de equipamento de voz em VHF ou por outros 
+canais de comunicação estabelecidos por meio de Acordo Operacional, como, por exemplo, o uso de 
+telefonia fixa ou móvel; e 
+V - exigir a apresentação de Plano de Voo. 
+Parágrafo único. N as hipóteses previstas nos incisos I e  II, o processo ficará com status 
+pendente até que as ações sejam realizadas ou até que o prazo estipulado pelo analista expire. 
+Art. 62.  A Organização Regional deve informar o motivo do indeferimento , por meio do 
+SARPAS, quando emitir parecer desfavorável. 
+Seção IV 
+Da emissão da autorização SARPAS 
+Art. 63.  A Organização Regional deve emitir a Autorização por meio do SARPAS  com as 
+<<<PAGINA 22>>>
+ 
+ 
+condicionantes operacionais necessárias à manutenção da segurança da navegação aérea. 
+§ 1º  Cabe ao Piloto Remoto em Comando cumprir fielmente as condicionantes 
+estabelecidas na Autorização. 
+§ 2º  O Piloto Remoto em Comando deve ater-se à Altura de Voo Autorizada, com base no 
+ponto de referência inserido no sistema, sem extrapolar a Altitude Limite de Voo. 
+Art. 64.  A Organização Regional pode suspender qualquer autorização para manutenção 
+da segurança da navegação aérea, devendo comunicar a suspensão e o motivo ao Solicitante. 
+Art. 65.  A autorização com período de noventa dias e emissão de NOTAM pode ser 
+estendida por sessenta dias, desde que: 
+I - seja solicitado com antecedência mínima de oito dias em relação ao  término d a 
+autorização; e 
+II - a análise da Organização Regional indicar parecer favorável.  
+CAPÍTULO V 
+INFRAÇÕES DE TRÁFEGO AÉREO 
+Art. 66.  As infrações de tráfego aéreo e o descumprimento das normas que regulam o 
+SISCEAB serão apurados e julgados administrativamente pela JJAER. 
+Seção I 
+Da denúncia 
+Art. 67.  Qualquer pessoa pode denunciar fato ou situação indicativa de atividade 
+irregular de Aeronaves Não Tripuladas (drone). 
+Parágrafo único. O cidadão que observar atividade irregular de Aeronaves Não Tripuladas 
+pode solicitar o apoio da segurança pública para averiguação quanto à legalidade da operação. 
+Art. 68.  A denúncia deve conter o máximo de informações possível, tais como: 
+I -  descrição sucinta da ocorrência; 
+II - data e hora da ocorrência; 
+III - documentos, fotos e vídeos que comprovem a identificação da UA (materialidade); 
+IV -  documentos, fotos e vídeos que comprovem a  identificação do Proprietário, 
+Explorador ou Operador da Aeronave (autoria); e 
+V - outras informações julgadas pertinentes. 
+Art. 69.  A denúncia pode ser encaminhada: 
+I -  à organização regional responsável pela área; ou 
+II - aos órgãos de Segurança Pública. 
+§ 1º  Os endereços e contatos das Organizações Regionais constam no Anexo II. 
+§ 2º  Os contatos disponibilizados no Anexo II são exclusivos para resolver problemas 
+relacionados à denúncia. 
+§ 3º  Assuntos não enquadrad os no § 2º devem ser informadas ao DECEA por meio do 
+Serviço de Atendimento ao Cidadão (SAC) – https://ajuda.decea.mil.br. 
+<<<PAGINA 23>>>
+ 
+ 
+Seção II 
+Da fiscalização 
+Art. 70.  De acordo com o artigo 290 do CBA, a autoridade aeronáutica pode requisitar o 
+apoio da força policial para obter a detenção dos presumidos infratores ou da aeronave que ponha em 
+perigo a segurança pública, pessoas ou coisas, nos limites do que dispõe o referido Código. 
+Art. 71.  O Órgão de Segurança Pública responsável pela investigação criminal deve enviar 
+o procedimento de investigação à Organização Regional responsável pela área em que ocorreu o fato ou 
+situação indicativa de atividade irregular  para possibilitar a instauração de investigação e processo 
+administrativo pelo Comando da Aeronáutica. 
+Parágrafo único. Os endereços e contatos das Organizações Regionais constam no Anexo 
+II. 
+CAPÍTULO VI 
+SEGURANÇA OPERACIONAL 
+Seção I 
+Do planejamento do voo 
+Art. 72.  O Piloto Remoto em Comando de uma UA deve ter ciência de todas as 
+informações necessárias ao planejamento do voo. 
+Art. 73.  O planejamento do voo deve incluir, pelo menos, uma avaliação criteriosa dos 
+seguintes aspectos: 
+I - restrições do espaço aéreo; 
+II - necessidade de coordenação; 
+III - condições meteorológicas (informes e previsões meteorológicas atualizadas) dos 
+aeródromos envolvidos, das áreas e da rota a ser voada; 
+IV - cálculo adequado de combustível ou autonomia da bateria, previsto para o voo; 
+V - planejamento alternativo para o caso de não ser possível completar o voo; e 
+VI - condições pertinentes ao voo previstas nos produtos AIS disponíveis no site da 
+AISWEB. 
+Seção II 
+Da contingência ou emergência 
+Art. 74.  Cabe ao Operador d a UA elaborar o Plano de Terminação de Voo  antes da 
+solicitação de acesso ao espaço aéreo, considerando pelo menos o seguinte: 
+I - descrição dos procedimentos específicos em cada ponto de terminação de voo; 
+II - aerovias, espaços aéreos condicionados, procedimentos de chegada e saída, rotas 
+visuais e circuitos de tráfego; e 
+III - crash sites. 
+Art. 75.  Cabe ao piloto remoto  em comando conhecer e aplicar todas as ações  previstas 
+no Plano de Terminação de Voo e  no manual do equipamento para mitigar as situações de contingência 
+ou emergência. 
+Art. 76.  O piloto remoto em comando deve notificar imediatamente o Tático SARPAS do 
+<<<PAGINA 24>>>
+ 
+ 
+CGNA, no caso de ocorrência de fly-away. 
+§ 1º  A notificação deve conter as seguintes informações: 
+I - última posição conhecida; 
+II - altitude; 
+III - velocidade; 
+IV - autonomia; e 
+V - outras informações julgadas pertinentes. 
+§ 2º  A notificação prevista no caput, deve ser  realizada imediatamente, conforme 
+orientações disponíveis no endereço eletrônico: https://www.decea.mil.br/drone/. 
+Art. 77.  O Operador de Aeronave  é o responsável por garantir a salvaguarda física dos 
+equipamentos do sistema, bem como da UA, no solo, embarcado e no ar. 
+CAPÍTULO VII 
+DISPOSIÇÕES TRANSITÓRIAS 
+Art. 78.  Os registros, cadastros, certificados e autorizações de projeto emitidos para 
+aeronaves não tripuladas, segundo as regras do RBAC -E nº 94, continuam válidos até que sejam 
+cancelados pela ANAC. 
+Parágrafo único. Nesse s casos, as análises serão realizadas com base nos requisitos 
+constantes na solicitação da operação. 
+Art. 79.  Operações autorizadas até 30 de junho de 2026 permanecem válidas por até 90 
+dias, conforme parâmetros estabelecidos na autorização emitida. 
+CAPÍTULO VIII 
+DISPOSIÇÕES FINAIS 
+Art. 80.  O DECEA oferece um canal de comunicação para o envio de dúvidas, sugestões, 
+comentários, críticas, elogios e notificações de erros no endereço eletrônico 
+https://publicacoes.decea.mil.br, selecionando a opção Fale Conosco ou através do link específico para 
+esta norma. 
+Art. 81.  Ao DECEA e às Organizações Regionais é dado o direito de revogar qualquer 
+autorização emitida sem aviso prévio. 
+Art. 82.  Os casos não previstos nesta Instrução serão submetidos ao Diretor -Geral do 
+DECEA. 
+Art. 83.  A redação dessa Instrução teve como parâmetro as seguintes publicações: 
+I - BRASIL. Lei nº 7.565 de 19 de dezembro de 1986. Dispõe sobre o Código Brasileiro de 
+Aeronáutica. Diário Oficial da União: Poder Executivo, Brasília, DF, p. 19.567, 23 dez.1986; 
+II - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle do 
+Espaço Aéreo. ICA 53-1: NOTAM. Rio de Janeiro, 2025; 
+III - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle 
+do Espaço Aéreo. ICA 53-4: Solicitação de Divulgação de Informação Aeronáutica. Rio de Janeiro, 2025; 
+<<<PAGINA 25>>>
+ 
+ 
+IV - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle 
+do Espaço Aéreo. ICA 100-12: Regras do Ar. Rio de Janeiro, 2024; 
+V - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle do 
+Espaço Aéreo. ICA 100-37: Serviços de Tráfego Aéreo. Rio de Janeiro, 2024; 
+VI - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle 
+do Espaço Aéreo. MCA 100-11: Preenchimento dos Formulários de Plano de Voo. Rio de Janeiro, 2020; 
+VII - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle 
+do Espaço Aéreo. MCA 100-16: Fraseologia de Tráfego Aéreo. Rio de Janeiro, 2025; 
+VIII - BRASIL. Ministério da Defesa. Comando da Aeronáutica. Centro de Documentação 
+da Aeronáutica. NSCA 5-3: Norma de Sistema  de Comunicações Oficiais e Atos Normativos no Âmbito 
+do Comando da Aeronáutica. Rio de Janeiro, 2026; 
+IX - CANADA. International Civil Aviation Organization. Doc. 7300. Chicago Convention – 
+Convention on International Civil Aviation. 9th. ed. Montreal, 2006; 
+X - CANADA. International Civil Aviation Organization. Annex 2 to the Convention on 
+International Civil Aviation: Rules of the Air. 11th. ed. Montreal, July 2024; e 
+XI - CANADA. International Civil Aviation Organization. Doc. 10019: Manual on Remotely 
+Piloted Aircraft Systems (RPAS). 1st. ed. Montreal, 2015. 
+<<<PAGINA 26>>>
+ 
+ 
+ANEXO II 
+LISTA DE CONTATOS (ICA 100-40) 
+PRIMEIRO CENTRO INTEGRADO DE DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO (CINDACTA I)  
+SHIS – QI-05 – Área Especial 12  
+CEP 71.615-600 – Brasília, DF  
+E-mail: protocolo.cindacta1@fab.mil.br  
+SEGUNDO CENTRO INTEGRADO DE DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO (CINDACTA II) 
+Av. Erasto Gaertner, 1000 – Bairro Bacacheri  
+CEP 82.510-901 – Curitiba, PR  
+E-mail: protocolo.cindacta2@fab.mil.br  
+TERCEIRO CENTRO INTEGRADO DE DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO (CINDACTA III) 
+Av. Maria Irene, s/nº – Jordão  
+CEP 51.250-020 – Recife, PE  
+E-mail: rpas.cindacta3@fab.mil.br 
+QUARTO CENTRO INTEGRADO DE DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO (CINDACTA IV)  
+Av. do Turismo, 1350 – Prédio do CVA – Tarumã  
+Cx. Postal 3512, CEP 69.041-010 – Manaus, AM  
+E-mail: protocolo.cindacta4@fab.mil.br 
+CENTRO REGIONAL DE CONTROLE DO ESPAÇO AÉREO SUDESTE (CRCEA-SE) 
+Av. Washington Luís, S/N – Aeroporto de Congonhas – Prédio da Torre de Controle, 3º andar  
+CEP 04.626-91 – São Paulo, SP  
+E-mail: protocolo.crcease@fab.mil.br 
+CENTRO DE GERENCIAMENTO DA NAVEGAÇÃO AÉREA (CGNA) 
+Praça Senador Salgado Filho s/n – 4º andar – Centro 
+CEP 20.021-340 – Rio de Janeiro – RJ 
+E-mail: cadastrosarpas@cgna.decea.mil.br 
+ 
